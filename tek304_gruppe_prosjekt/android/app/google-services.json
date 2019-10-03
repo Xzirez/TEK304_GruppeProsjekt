@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "721582866925",
+    "firebase_url": "https://tek304gruppeprosjekt.firebaseio.com",
+    "project_id": "tek304gruppeprosjekt",
+    "storage_bucket": "tek304gruppeprosjekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721582866925:android:e1e2d814553ce7af7567e4",
+        "android_client_info": {
+          "package_name": "tek304.gruppe.prosjekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721582866925-7ais6p657k9oqlmj4j6qc8g1b28gqsps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzYjqJ0ynt7MfiNn3SylcPp7i6T4ncwgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721582866925-7ais6p657k9oqlmj4j6qc8g1b28gqsps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
