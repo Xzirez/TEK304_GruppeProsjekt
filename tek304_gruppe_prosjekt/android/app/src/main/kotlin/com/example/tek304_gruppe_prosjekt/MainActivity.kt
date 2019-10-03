@@ -1,4 +1,4 @@
-package com.example.flutter_app
+package com.example.tek304_gruppe_prosjekt
 
 import android.os.Bundle
 
